@@ -1,0 +1,12 @@
+This is a part of a practice project implemented by Yifan Gu.
+
+***********
+Main Files:
+***********
+csim.c                  Cache simulator
+trans.c                 Transpose function
+
+# Helper Files
+README                  This file
+cachelab.c              Required helper functions
+cachelab.h              Required header file
